@@ -33,13 +33,12 @@
 
 ```
 # 用户级（所有项目可用）
-~/.workbuddy-ai/skills/project-workflow/
+~/你的agent目录/skills/project-workflow/
 
 # 项目级（仅当前项目，适合团队共享）
-<项目根目录>/.workbuddy-ai/skills/project-workflow/
+<项目根目录>/你的agent目录/skills/project-workflow/
 ```
 
-Windows 下用户级路径为 `C:\Users\<用户名>\.workbuddy-ai\skills\project-workflow\`。
 
 ## 使用
 
